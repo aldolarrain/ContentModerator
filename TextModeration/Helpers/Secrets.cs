@@ -9,6 +9,6 @@ namespace TextModeration
     class Secrets
     {
         //Content Moderator Key 
-        public const string CONTENTMODERATOR_APIKEY = "a57ad8fa46974d0bad65416f03483d6d";
+        public const string CONTENTMODERATOR_APIKEY = "{apikey del content moderator}";
     }
 }
