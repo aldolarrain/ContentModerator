@@ -19,7 +19,7 @@ namespace TextModeration
         public const string CONTENTMODERATOR_APIKEY = Secrets.CONTENTMODERATOR_APIKEY;
 
         // All Uris   
-        public const string APIURI = "https://moderadoraldo.cognitiveservices.azure.com/contentmoderator/moderate/v1.0/ProcessText/Screen";
+        public const string APIURI = "https://{endpoint}/contentmoderator/moderate/v1.0/ProcessText/Screen";
 
 
     }
